@@ -9,7 +9,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-  using_first("arrays!")
+  using_reverse("arrays!")
 
 end
 
