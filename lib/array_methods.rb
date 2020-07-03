@@ -4,7 +4,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array."last" ("wow")
+  array.last ("wow")
 
 end
 
